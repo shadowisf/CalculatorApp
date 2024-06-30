@@ -16,4 +16,4 @@
 &emsp;
 
 ## SIDE NOTE
-There is inaccuracy in the min and max conversion section and possibly in other sections too. Please take with a grain of salt
+There is inaccuracy in the shapes section and possibly in other sections too. Please take the answers with a grain of salt
